@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "I. Integer and Real Numbers", "I. Integer and Real Numbers", "{4BA5B6F7-2092-4679-A33E-30C77497EA26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Centuries to Minutes", "1. Centuries to Minutes\1. Centuries to Minutes.csproj", "{83178148-9549-4835-A053-06914EBDEB79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Circle Area 12 Digits Preci", "2. Circle Area 12 Digits Preci\2. Circle Area 12 Digits Preci.csproj", "{8DEBA659-1847-4C72-BEE2-D5FDC88A57A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Exact Sum of Real Numbers", "3. Exact Sum of Real Numbers\3. Exact Sum of Real Numbers.csproj", "{75AEE8F0-D920-43CC-8C89-4F78383CE37E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "II. Data Types and Type Conversion", "II. Data Types and Type Conversion", "{8A4BD8C9-C09F-41CB-A748-1AA148DA3343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Elevator", "4. Elevator\4. Elevator.csproj", "{7169E43D-7160-4BF9-A51D-32F7B013BAB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Special Numbers", "5. Special Numbers\5. Special Numbers.csproj", "{42090627-D25D-490A-9FFD-ECBD5934BA6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Triples of Latin Letters", "6. Triples of Latin Letters\6. Triples of Latin Letters.csproj", "{ED7374A6-D1C3-4666-A821-58224B75880D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Greeting", "7. Greeting\7. Greeting.csproj", "{DCE1EF9B-772A-4EF3-95CF-53AB03EBF50D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "III. Variables", "III. Variables", "{584DC76C-3322-4C74-AC65-ABD98859ADBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Refactor Volume of Pyramid", "8. Refactor Volume of Pyramid\8. Refactor Volume of Pyramid.csproj", "{7EE4E7EF-782D-4561-BB53-F8F54D52A7C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Refactor Special Numbers", "9. Refactor Special Numbers\9. Refactor Special Numbers.csproj", "{66A3643F-416E-4F57-94EB-444B78D2E837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83178148-9549-4835-A053-06914EBDEB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83178148-9549-4835-A053-06914EBDEB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83178148-9549-4835-A053-06914EBDEB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83178148-9549-4835-A053-06914EBDEB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEBA659-1847-4C72-BEE2-D5FDC88A57A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEBA659-1847-4C72-BEE2-D5FDC88A57A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEBA659-1847-4C72-BEE2-D5FDC88A57A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEBA659-1847-4C72-BEE2-D5FDC88A57A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75AEE8F0-D920-43CC-8C89-4F78383CE37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75AEE8F0-D920-43CC-8C89-4F78383CE37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75AEE8F0-D920-43CC-8C89-4F78383CE37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75AEE8F0-D920-43CC-8C89-4F78383CE37E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7169E43D-7160-4BF9-A51D-32F7B013BAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7169E43D-7160-4BF9-A51D-32F7B013BAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7169E43D-7160-4BF9-A51D-32F7B013BAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7169E43D-7160-4BF9-A51D-32F7B013BAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42090627-D25D-490A-9FFD-ECBD5934BA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42090627-D25D-490A-9FFD-ECBD5934BA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42090627-D25D-490A-9FFD-ECBD5934BA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42090627-D25D-490A-9FFD-ECBD5934BA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7374A6-D1C3-4666-A821-58224B75880D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7374A6-D1C3-4666-A821-58224B75880D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7374A6-D1C3-4666-A821-58224B75880D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7374A6-D1C3-4666-A821-58224B75880D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE1EF9B-772A-4EF3-95CF-53AB03EBF50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE1EF9B-772A-4EF3-95CF-53AB03EBF50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE1EF9B-772A-4EF3-95CF-53AB03EBF50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE1EF9B-772A-4EF3-95CF-53AB03EBF50D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE4E7EF-782D-4561-BB53-F8F54D52A7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE4E7EF-782D-4561-BB53-F8F54D52A7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE4E7EF-782D-4561-BB53-F8F54D52A7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE4E7EF-782D-4561-BB53-F8F54D52A7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A3643F-416E-4F57-94EB-444B78D2E837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A3643F-416E-4F57-94EB-444B78D2E837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A3643F-416E-4F57-94EB-444B78D2E837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A3643F-416E-4F57-94EB-444B78D2E837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{83178148-9549-4835-A053-06914EBDEB79} = {4BA5B6F7-2092-4679-A33E-30C77497EA26}
+		{8DEBA659-1847-4C72-BEE2-D5FDC88A57A3} = {4BA5B6F7-2092-4679-A33E-30C77497EA26}
+		{75AEE8F0-D920-43CC-8C89-4F78383CE37E} = {4BA5B6F7-2092-4679-A33E-30C77497EA26}
+		{7169E43D-7160-4BF9-A51D-32F7B013BAB0} = {8A4BD8C9-C09F-41CB-A748-1AA148DA3343}
+		{42090627-D25D-490A-9FFD-ECBD5934BA6E} = {8A4BD8C9-C09F-41CB-A748-1AA148DA3343}
+		{ED7374A6-D1C3-4666-A821-58224B75880D} = {8A4BD8C9-C09F-41CB-A748-1AA148DA3343}
+		{DCE1EF9B-772A-4EF3-95CF-53AB03EBF50D} = {8A4BD8C9-C09F-41CB-A748-1AA148DA3343}
+		{7EE4E7EF-782D-4561-BB53-F8F54D52A7C5} = {584DC76C-3322-4C74-AC65-ABD98859ADBD}
+		{66A3643F-416E-4F57-94EB-444B78D2E837} = {584DC76C-3322-4C74-AC65-ABD98859ADBD}
+	EndGlobalSection
+EndGlobal

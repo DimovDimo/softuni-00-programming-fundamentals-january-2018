@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sino The Walker", "01. Sino The Walker\01. Sino The Walker.csproj", "{0BCA285A-3B42-4C43-A2C9-ACF012C93EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SoftUni Karaoke", "02. SoftUni Karaoke\02. SoftUni Karaoke.csproj", "{E0A3001D-0076-4B18-909A-7450593685D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Endurance Rally", "03. Endurance Rally\03. Endurance Rally.csproj", "{96DCEABB-430B-4755-8CC9-8BF0445345C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Winning Ticket", "04. Winning Ticket\04. Winning Ticket.csproj", "{9A44DDC5-0329-42BC-A69E-9E5C9D0C6257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BCA285A-3B42-4C43-A2C9-ACF012C93EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCA285A-3B42-4C43-A2C9-ACF012C93EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCA285A-3B42-4C43-A2C9-ACF012C93EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCA285A-3B42-4C43-A2C9-ACF012C93EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A3001D-0076-4B18-909A-7450593685D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A3001D-0076-4B18-909A-7450593685D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A3001D-0076-4B18-909A-7450593685D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A3001D-0076-4B18-909A-7450593685D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DCEABB-430B-4755-8CC9-8BF0445345C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DCEABB-430B-4755-8CC9-8BF0445345C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DCEABB-430B-4755-8CC9-8BF0445345C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DCEABB-430B-4755-8CC9-8BF0445345C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A44DDC5-0329-42BC-A69E-9E5C9D0C6257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A44DDC5-0329-42BC-A69E-9E5C9D0C6257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A44DDC5-0329-42BC-A69E-9E5C9D0C6257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A44DDC5-0329-42BC-A69E-9E5C9D0C6257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

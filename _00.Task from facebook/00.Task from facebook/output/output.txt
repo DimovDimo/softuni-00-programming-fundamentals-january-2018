@@ -1,0 +1,10 @@
+All opportunities for the Softuni workers are:
+Opportunity 1) Develpers: 0; QA: 10; Copywriters: 10; Count workers: 20; Total day salary: 20.00lv
+Opportunity 2) Develpers: 2; QA: 5; Copywriters: 13; Count workers: 20; Total day salary: 20.00lv
+Opportunity 3) Develpers: 4; QA: 0; Copywriters: 16; Count workers: 20; Total day salary: 20.00lv
+
+All opportunities for the Softuni workers if there are one worker or more from a profession:
+Opportunity 2) Develpers: 2; QA: 5; Copywriters: 13; Count workers: 20; Total day salary: 20.00lv
+
+Decision: Dimo Dimov
+Softuni user name: D.Dimov_96
